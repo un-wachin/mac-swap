@@ -18,6 +18,6 @@ El script se ejecuta en un bucle, mostrando un menú interactivo después de cad
 ### Uso
 
 1. Clona el repositorio o descarga el script.
-2. Otorga permisos de ejecución: `chmod +x mac_changer.sh`.
-3. Ejecuta el script como root: `sudo ./mac_changer.sh`.
+2. Otorga permisos de ejecución: `chmod +x mac_swap.sh`.
+3. Ejecuta el script como root: `sudo ./mac_swap.sh`.
 4. Sigue las instrucciones en pantalla para seleccionar la acción deseada.
